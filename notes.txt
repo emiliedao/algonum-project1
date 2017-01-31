@@ -1,0 +1,11 @@
+Séance 1 :
+
+Exo 1 (thparpaite, fdrault)
+- Question 1 en cours rp(x,p)
+
+Exo 2 (tdamiani, tseignette)
+- Lecture du doc
+- Réponses aux questions préliminaires à rédiger
+- Implémentation de ln : tests sur 1..10 à refaire
+- Implémentation de exp
+- Implémentation de arctan : problème
