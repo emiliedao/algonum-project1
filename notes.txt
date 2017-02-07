@@ -6,6 +6,31 @@ Exo 1 (thparpaite, fdrault)
 Exo 2 (tdamiani, tseignette)
 - Lecture du doc
 - Réponses aux questions préliminaires à rédiger
-- Implémentation de ln : tests sur 1..10 à refaire
+- Implémentation de ln : tests sur 1..10 à refaire -> tracer erreur absolue/relative
 - Implémentation de exp
 - Implémentation de arctan : problème
+
+Séance 2 :
+ Exo 1 :
+  - question 1 ok
+  - fini
+  - récupérer les graphes
+  - testé
+  - todo: rapport
+
+ Exo 2 :
+  - arctan ok
+  - tan
+  - tracé de l'erreur absolue
+  - todo : ramener le calcul des fonctions sur l'intervalle défini (phase 1)
+
+
+
+Numerical recipes : problèmes soulevés lors de l'évaluation des fonctions usuelles en machine :
+
+
+
+
+Précision machine : 10^(-p+1)/2
+
+Rendu : archive avec rapport pdf + fichiers pythons, par mail
